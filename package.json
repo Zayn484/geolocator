@@ -6,8 +6,12 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "node-geocoder": "^3.27.0",
+    "node-open-geocoder": "^4.0.1",
     "react": "^16.13.1",
+    "react-autosuggest": "^10.0.2",
     "react-dom": "^16.13.1",
+    "react-geolocated": "^3.0.1",
     "react-scripts": "3.4.3"
   },
   "scripts": {
